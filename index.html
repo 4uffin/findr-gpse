@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>findr</title>
+
+    <script async src="https://cse.google.com/cse.js?cx=62ae442fb5c3b4988"></script>
+
+    <style>
+        :root {
+            --blue: #4285f4;
+            --border: #dfe1e5;
+            --main-text: #202124;
+            --sub-text: #4d5156;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            margin: 0;
+            background: #fff;
+            color: var(--main-text);
+        }
+
+        .container {
+            margin-top: 12vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+            padding: 0 20px;
+            box-sizing: border-box;
+        }
+
+        /* 2005-era Professional Branding */
+        .logo {
+            font-size: 72px;
+            font-weight: 800;
+            margin-bottom: 25px;
+            letter-spacing: -5px;
+            font-family: 'Arial Black', sans-serif;
+        }
+
+        .logo span {
+            color: var(--blue);
+        }
+
+        .search-wrapper {
+            width: 90%;
+            max-width: 650px;
+        }
+
+        /* Google CSE Styling Overrides */
+        .gsc-control-cse {
+            border: none !important;
+            background: transparent !important;
+            padding: 0 !important;
+        }
+
+        .gsc-search-box-tools .gsc-search-box .gsc-input {
+            padding-right: 10px !important;
+        }
+
+        input.gsc-input {
+            font-size: 16px !important;
+            padding: 12px 20px !important;
+            border-radius: 24px !important;
+        }
+
+        .gsc-search-button-v2 {
+            border-radius: 20px !important;
+            padding: 10px 18px !important;
+        }
+
+        .gsc-result {
+            border-bottom: none !important;
+        }
+
+        .gs-webResult.gs-result a.gs-title:link,
+        .gs-webResult.gs-result a.gs-title:visited {
+            color: #1a0dab !important;
+        }
+
+        .gs-webResult .gs-snippet {
+            color: var(--sub-text) !important;
+        }
+
+        .gcsc-find-more-on-google-root {
+            display: none !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="logo">find<span>r</span></h1>
+
+        <div class="search-wrapper">
+            <div class="gcse-search"></div>
+        </div>
+    </div>
+</body>
+</html>
