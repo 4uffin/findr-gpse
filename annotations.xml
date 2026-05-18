@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><Annotations>
+  <Annotation about="www.pinterest.com/" timestamp="0x0006521086d77243" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://www.pinterest.com/"/>
+  </Annotation>
+  <Annotation about="neocities.org/" timestamp="0x0006521086c3d07b" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://neocities.org/"/>
+  </Annotation>
+  <Annotation about="www.yahoo.com/" timestamp="0x0006521086b2a0d1" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://www.yahoo.com/"/>
+  </Annotation>
+  <Annotation about="www.bing.com/" timestamp="0x0006521086a11014" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://www.bing.com/"/>
+  </Annotation>
+  <Annotation about="duckduckgo.com/" timestamp="0x00065210868f2e67" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://duckduckgo.com/"/>
+  </Annotation>
+  <Annotation about="www.microsoft.com/" timestamp="0x00065210867921d8" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://www.microsoft.com/"/>
+  </Annotation>
+  <Annotation about="lkml.org/" timestamp="0x0006521086645046" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://lkml.org/"/>
+  </Annotation>
+  <Annotation about="www.linux.org/" timestamp="0x0006521086514d02" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://www.linux.org/"/>
+  </Annotation>
+  <Annotation about="codeberg.org/" timestamp="0x00065210864035a2" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://codeberg.org/"/>
+  </Annotation>
+  <Annotation about="www.imdb.com/" timestamp="0x00065210862bb166" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://www.imdb.com/"/>
+  </Annotation>
+  <Annotation about="www.ycombinator.com/" timestamp="0x000652108617c5f9" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="https://www.ycombinator.com/"/>
+  </Annotation>
+  <Annotation about="*.github.com/*" timestamp="0x000651d266e9efb1" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="github.com"/>
+  </Annotation>
+  <Annotation about="*.quora.com/*" timestamp="0x000651d26472a6a5" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="quora.com"/>
+  </Annotation>
+  <Annotation about="*.bsky.app/*" timestamp="0x000651d261757c17" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="bsky.app"/>
+  </Annotation>
+  <Annotation about="*.apple.com/*" timestamp="0x000651d2275451f2" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="apple.com"/>
+  </Annotation>
+  <Annotation about="*.facebook.com/*" timestamp="0x000651d227356352" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="facebook.com"/>
+  </Annotation>
+  <Annotation about="*.x.com/*" timestamp="0x000651d227220acc" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="x.com"/>
+  </Annotation>
+  <Annotation about="*.twitter.com/*" timestamp="0x000651d227050999" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="twitter.com"/>
+  </Annotation>
+  <Annotation about="*.instagram.com/*" timestamp="0x000651d226e64c58" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="instagram.com"/>
+  </Annotation>
+  <Annotation about="*.reddit.com/*" timestamp="0x000651d226c76261" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="reddit.com"/>
+  </Annotation>
+  <Annotation about="*.youtube.com/*" timestamp="0x000651d226a650e7" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="youtube.com"/>
+  </Annotation>
+  <Annotation about="*.wikipedia.org/*" timestamp="0x000651d221a2ca62" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="wikipedia.org"/>
+  </Annotation>
+  <Annotation about="*.google.com/*" timestamp="0x000651d221a2c978" score="1.0">
+    <Label name="_include_"/>
+    <AdditionalData attribute="original_url" value="google.com"/>
+  </Annotation>
+</Annotations>
